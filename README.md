@@ -1,8 +1,13 @@
 Name: PRANJUL VISHWAKARMA
+
 Company: CODTECH IT SOLUTIONS
+
 Id: CT08ENZ
+
 Domain: Cyber Security
+
 Duration:  December 17th, 2024 to January 17th, 2025
+
 Mentor:  Neela Santhosh Kumar
 
 Project: Password Strength Checker
